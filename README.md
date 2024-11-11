@@ -12,7 +12,7 @@ O projeto foi criado como parte avaliativa da disciplina de Fundamentos de Desen
 
 ## Descrição
 
-O projeto se consiste, basicamente, em
+O projeto se consiste, basicamente, na criação de um Formulário de Cadastro de Evento, onde o cliente deve inserir os dados do evento que quer realizar, sendo viável a exclusão dos dados inseridos caso o indivíduo desejar mudar.
 
 ## Resultado
 

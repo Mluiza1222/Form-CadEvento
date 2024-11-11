@@ -16,7 +16,7 @@ O projeto se consiste, basicamente, em
 
 ## Resultado
 
-![Resultado do Projeto](img/)
+![Resultado do Projeto](img/Resultado.PNG)
 
 ### Estrutura
 
